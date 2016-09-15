@@ -1,0 +1,70 @@
+﻿[
+{"source":"ХМАО, Приобье, молодёжная 43-1"
+,"result":"Ханты-Мансийский Автономный округ - Югра АО, Октябрьский р-н, пгт Приобье, ул Молодежная, д 43, кв 1"
+,"postal_code":"628126"
+,"country":"Россия"
+,"region_fias_id":"d66e5325-3a25-4d29-ba86-4ca351d9704b"
+,"region_kladr_id":"8600000000000"
+,"region_with_type":"Ханты-Мансийский Автономный округ - Югра АО"
+,"region_type":"АО"
+,"region_type_full":"автономный округ"
+,"region":"Ханты-Мансийский Автономный округ - Югра"
+,"area_fias_id":"b9e0dc80-f2f0-49b2-addc-7159ff4091cc"
+,"area_kladr_id":"8600700000000"
+,"area_with_type":"Октябрьский р-н"
+,"area_type":"р-н"
+,"area_type_full":"район"
+,"area":"Октябрьский"
+,"city_fias_id":null
+,"city_kladr_id":null
+,"city_with_type":null
+,"city_type":null
+,"city_type_full":null
+,"city":null
+,"city_area":null
+,"city_district":null
+,"settlement_fias_id":"780f72f3-633b-4899-8af6-c918cab0c006"
+,"settlement_kladr_id":"8600700001400"
+,"settlement_with_type":"пгт Приобье"
+,"settlement_type":"пгт"
+,"settlement_type_full":"поселок городского типа"
+,"settlement":"Приобье"
+,"street_fias_id":"ff767484-4dd5-488c-a14b-8a5b484444fd"
+,"street_kladr_id":"86007000014000400"
+,"street_with_type":"ул Молодежная"
+,"street_type":"ул"
+,"street_type_full":"улица"
+,"street":"Молодежная"
+,"house_fias_id":"d0a39de1-7e43-437b-bbd5-4bec590a22f5"
+,"house_kladr_id":"8600700001400040046"
+,"house_type":"д"
+,"house_type_full":"дом"
+,"house":"43"
+,"block_type":null
+,"block_type_full":null
+,"block":null
+,"flat_type":"кв"
+,"flat_type_full":"квартира"
+,"flat":"1"
+,"flat_area":"100.2"
+,"square_meter_price":null
+,"flat_price":null
+,"postal_box":null
+,"fias_id":"d0a39de1-7e43-437b-bbd5-4bec590a22f5"
+,"fias_level":"8"
+,"kladr_id":"8600700001400040046"
+,"capital_marker":"0"
+,"okato":"71121656000"
+,"oktmo":"71821156"
+,"tax_office":"8610"
+,"tax_office_legal":null
+,"timezone":"UTC+5"
+,"geo_lat":"62.550379"
+,"geo_lon":"65.6569994"
+,"beltway_hit":null
+,"beltway_distance":null
+,"qc_geo":0
+,"qc_complete":0
+,"qc_house":2
+,"qc":0
+,"unparsed_parts":null}]
